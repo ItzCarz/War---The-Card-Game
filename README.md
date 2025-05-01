@@ -29,9 +29,11 @@ Tap a button to draw a card for each player.
 
 The higher card wins the round and scores a point.
 
-Ties initiate a "war" round — more cards are drawn!
+A Tie does nothing to either side and is seen as a draw.
 
-The game continues until the deck runs out.
+(I hope to add to a tie in the future)|
+
+The deck is infinite.
 
 🔧 Tech Stack
 Language: Swift
